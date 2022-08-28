@@ -16,4 +16,4 @@ My name is Jhonatan, I'm from Peru and I'm an Developer Backend.
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://www.linkedin.com/in/jcachi)
+Find all of my socials and resume in my [LinkedIn](https://www.linkedin.com/in/jcachi)
