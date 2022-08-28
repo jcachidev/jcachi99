@@ -6,7 +6,7 @@ My name is Jhonatan, I'm from Peru and I'm an Developer Backend.
 * I'm bachelor in Systems Engineer
 * I offer my services like freelance to develop systems projects
 
-## Skilla
+## Skills
 
 * Using SpringBoot and Java since 2021
 * Cloud Platform like GCP, RabbitMQ
