@@ -8,7 +8,7 @@ My name is Jhonatan, I'm from Peru and I'm an Developer Backend.
 
 ## Skills
 
-* Using SpringBoot and Java since 2021
+* Using SpringBoot and Java since 2020
 * Cloud Platform like GCP, RabbitMQ
 * Research new knowledge for solve problems in projects
 * Some .NET coding
