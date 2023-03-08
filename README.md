@@ -2,7 +2,7 @@
 
 My name is Jhonatan, I'm from Peru and I'm an Developer Backend.
 
-* Currently working with SpringBoot and Java on a Holding Peruvian Company
+* Currently working with SpringBoot and Java on a Peruvian Company
 * I'm bachelor in Systems Engineer
 * I offer my services like freelance to develop systems projects
 
