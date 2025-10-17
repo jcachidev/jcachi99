@@ -16,7 +16,7 @@ Soy un desarrollador backend con más de **4 años** de experiencia en el diseñ
 | **Lenguajes** | Java 8 / 11 · SQL · JavaScript · TypeScript · Shell Scripting · Dart (Flutter) |
 | **Frameworks / Librerías** | Spring Boot · Spring Batch · JPA · JDBC Template · Maven · Angular · Node.js (Middy) |
 | **Bases de Datos / Almacenamiento** | Oracle PL/SQL · MySQL · PostgreSQL · SQL Server |
-| **Mensajería & colas** | RabbitMQ |
+| **Mensajería & colas** | RabbitMQ · PubSub(GCP) |
 | **Integraciones / APIs** | REST · SOAP · Microservicios · Stored Procedures |
 | **DevOps / CI / CD / Cloud** | Jenkins · GitLab · Bitbucket · Azure DevOps · AWS (Lambda, RDS, VPC) · GCP · Azure |
 | **Monitoreo / Infraestructura** | ElasticSearch · Arquitectura por capas · Migraciones tecnológicas · Code Review |
@@ -68,7 +68,7 @@ Soy un desarrollador backend con más de **4 años** de experiencia en el diseñ
 
 ## 📚 Educación y Formación Continua
 
-- Inglés intermedio-alto (nivel B2)  
+- Inglés intermedio (nivel B2)  
 - Aprendizaje constante de nuevas tecnologías, buenas prácticas, patrones de diseño y arquitecturas modernas  
 
 ---
