@@ -1,11 +1,11 @@
 # 👋 Hola, soy **Jhonatan Cachi**
 
-**Senior Java Backend Developer | Especialista en Microservicios & Arquitectura de Software**
+**Senior Java Backend Developer | Experiencia en Microservicios & Arquitectura de Software**
 ---
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador backend con más de **4 años** de experiencia en el diseño, desarrollo, integración y optimización de soluciones empresariales. Me especializo en arquitecturas limpias, microservicios y patrones de diseño bien estructurados. Me apasiona entregar código sólido, eficiente y mantenible; colaborar en equipos con metodologías ágiles; trabajar con múltiples tecnologías; y contribuir desde la definición técnica hasta la operación.
+Soy un desarrollador backend con más de **4 años** de experiencia en el diseño, desarrollo, integración y optimización de soluciones empresariales. Mi experiencia se centra en arquitecturas limpias, microservicios y patrones de diseño bien estructurados. Me apasiona entregar código sólido, eficiente y mantenible; colaborar en equipos con metodologías ágiles; trabajar con múltiples tecnologías; y contribuir desde la definición técnica hasta la operación.
 
 ---
 
